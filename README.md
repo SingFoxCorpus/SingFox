@@ -13,3 +13,5 @@ check_normatization.py --> Verifies whether files are properly normalized (check
 merge_audio_files.py --> Merges all WAV files into a single long WAV file, with optional silence between clips.
 
 divide_audio_file.py --> Splits each WAV file into fixed-length segments (e.g., 2 seconds) and saves them with consistent naming.
+
+distribute_dataset_chunks.py – Splits audio files by language and type into fixed-size chunks across multiple organized directories for singfake generation.
