@@ -17,3 +17,5 @@ divide_audio_file.py --> Splits each WAV file into fixed-length segments (e.g., 
 distribute_dataset_chunks.py – Splits audio files by language and type into fixed-size chunks across multiple organized directories for singfake generation.
 
 dataset_from_dirs_code.ipynb - If the structure is like 2 folders with n (n=number of directories) subdirectories, and each subdirectory has language folder which contains audios, then the code will make a dataset we want in base form.
+
+T6_formation.py - Forms T6 from T5 dataset
