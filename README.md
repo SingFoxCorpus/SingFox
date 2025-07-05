@@ -19,3 +19,6 @@ distribute_dataset_chunks.py – Splits audio files by language and type into fi
 dataset_from_dirs_code.ipynb - If the structure is like 2 folders with n (n=number of directories) subdirectories, and each subdirectory has language folder which contains audios, then the code will make a dataset we want in base form.
 
 T6_formation.py - Forms T6 from T5 dataset
+
+Track_T7_former.py - forms T7 from various datasets
+
