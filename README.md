@@ -1,5 +1,7 @@
 # SingFox
 
+All the trained pytorch models are openly available on : https://www.kaggle.com/datasets/artharking/pytorch-models-singfox/data 
+
 mp3_to_wav.py	--> Converts MP3 audio files to WAV format for consistent processing.
 
 resampling.py	--> Resamples all WAV files to a target sample rate (e.g., 16 kHz) for uniformity.
